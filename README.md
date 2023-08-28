@@ -1,2 +1,3 @@
 # nodejs_project
-Project for my own codes &amp; deployment
+To install node module 
+npm i --legacy-peer-deps 
